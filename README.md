@@ -1,0 +1,4 @@
+simplesamlphp
+=============
+
+stand alone version
