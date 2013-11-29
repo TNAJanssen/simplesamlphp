@@ -1,5 +1,5 @@
 {
-    "name": "simplesamlphp/simplesamlphp",
+    "name": "ajanssen/simplesamlphp",
     "description": "A PHP implementation of SAML 2.0 service provider and identity provider functionality. And is also compatible with Shibboleth 1.3 and 2.0.",
     "type": "project",
     "keywords": [ "saml2", "shibboleth","aselect","openid","oauth","ws-federation","sp","idp" ],
