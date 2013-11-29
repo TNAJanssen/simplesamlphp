@@ -18,6 +18,7 @@ class sspmod_saml_Message
      */
     public static function addSign(SimpleSAML_Configuration $srcMetadata, SimpleSAML_Configuration $dstMetadata, SAML2_SignedElement $element)
     {
+
         $keyArray = SimpleSAML_Utilities::loadPrivateKey($srcMetadata, TRUE);
         $certArray = SimpleSAML_Utilities::loadPublicKey($srcMetadata, FALSE);
 
